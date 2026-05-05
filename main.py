@@ -10,7 +10,7 @@ import logging
 import sys
 # ╔══════════════════════════════════════════════════════════════════╗
 # ║  CREATOR: AYUSHxJAAT
-# ║  TELEGRAN: https://t.me/+h_vKolWVbHM5ZmM1
+# ║  TELEGRAN: https://t.me/AYUSHxJAATxLIKE
 # ║  PERSONAL TELEGRAM: https://t.me/AYUSHxJAAT
 # ╚══════════════════════════════════════════════════════════════════╝
 
@@ -28,7 +28,7 @@ if not BOT_TOKEN:
     logger.error("❌ BOT_TOKEN not found! Please set your bot token in environment variables.")
     sys.exit(1)
 
-REQUIRED_CHANNELS = ["@TEAMSANTANI"]
+REQUIRED_CHANNELS = ["@AYUSHxJAATxLIKE"]
 GROUP_JOIN_LINK = "https://t.me/+h_vKolWVbHM5ZmM1"
 OWNER_ID = 7443852929    #Example: 6282811167
 OWNER_USERNAME = "@AYUSHxJAAT"
